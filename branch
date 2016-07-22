@@ -1,0 +1,4 @@
+A branch is a deviation from the master. 
+Many branches can be created until one branch is decided to be the best which can then be committed and merged with the master. 
+This is especially useful when building/iterating several types of builds, apps, implementations, A/B-ing, etc. 
+Something like that, anyway.
