@@ -1,0 +1,9 @@
+"mv" = rename / move files
+        eg: ~/git-challenge/nonamefile
+            mv nonamefile filewithname    (file name changes to "filewithname")
+            
+            ~/git-challenge/filewithname
+            mv filewithname ~/Desktop     ("filewithname" file moves to Desktop)
+            
+            What is the command for renaming and moving in a single line of code? 
+            mv command will autocreate new folders if moving to a new destination path.
